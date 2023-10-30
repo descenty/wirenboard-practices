@@ -91,7 +91,7 @@ def on_message(client, userdata, msg):
 
 def output_loop():
     while True:
-        time.sleep(1)
+        time.sleep(5)
         new_data = copy.deepcopy(data)
         new_data["time"] = datetime.now().strftime("%d.%m.%Y %H:%M:%S")
         print(new_data)
