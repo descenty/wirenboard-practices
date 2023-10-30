@@ -1,4 +1,5 @@
 from concurrent.futures import ThreadPoolExecutor
+import copy
 import time
 from paho.mqtt import client as mqtt_client  # type: ignore
 from datetime import datetime
@@ -25,7 +26,7 @@ KEEPALIVE = 60
 SUB_TOPICS = {
     "/devices/wb-msw-v3_21/controls/Temperature": "temperature",
     "/devices/wb-msw-v3_21/controls/Current Motion": "motion",
-    '/devices/wb-map12e_23/controls/Ch 1 P L2': 'power'
+    "/devices/wb-map12e_23/controls/Ch 1 P L2": "power",
 }
 try:
     all_data = json.load(open("data.json", "r"))
@@ -51,21 +52,12 @@ def on_connect(client, userdata, flags, rc):
 
 data = {}
 
-all_data = [
-    {
-        "id": 12,
-        "motion": 0,
-        "sound": 0,
-        "temperature": 0,
-        "illuminance": 0,
-        "time": "01.01.2021 00:00:00",
-    }
-]
+all_data = []
 
 
-def save_to_json(data):
+def save_to_json():
     with open("data.json", "w") as file:
-        file.write(json.dumps(data))
+        file.write(json.dumps(all_data))
 
 
 def save_to_csv():
@@ -98,13 +90,13 @@ def on_message(client, userdata, msg):
 
 
 def output_loop():
-    global data
     while True:
-        time.sleep(5)
-        print(data)
-        data["time"] = datetime.now().strftime("%d.%m.%Y %H:%M:%S")
-        all_data.append(data)
-        save_to_json(all_data)
+        time.sleep(1)
+        new_data = copy.deepcopy(data)
+        new_data["time"] = datetime.now().strftime("%d.%m.%Y %H:%M:%S")
+        print(new_data)
+        all_data.append(new_data)
+        save_to_json()
         save_to_csv()
         save_to_xml()
 

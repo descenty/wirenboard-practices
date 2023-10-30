@@ -1,162 +1,875 @@
 <item>
    <id>12</id>
-   <illuminance>0</illuminance>
-   <motion>0</motion>
-   <sound>0</sound>
-   <temperature>0</temperature>
-   <time>01.01.2021 00:00:00</time>
+   <motion>383.0</motion>
+   <power>15.28</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:02:14</time>
 </item>
 <item>
    <id>12</id>
-   <motion>401.0</motion>
-   <power>15.52</power>
-   <temperature>23.7</temperature>
-   <time>30.10.2023 11:51:22</time>
+   <motion>357.0</motion>
+   <power>15.29</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:02:15</time>
 </item>
 <item>
    <id>12</id>
-   <motion>401.0</motion>
-   <power>15.52</power>
-   <temperature>23.7</temperature>
-   <time>30.10.2023 11:51:22</time>
+   <motion>357.0</motion>
+   <power>15.29</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:02:16</time>
 </item>
 <item>
    <id>12</id>
-   <motion>401.0</motion>
-   <power>15.52</power>
-   <temperature>23.7</temperature>
-   <time>30.10.2023 11:51:22</time>
+   <motion>357.0</motion>
+   <power>15.29</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:02:17</time>
 </item>
 <item>
    <id>12</id>
-   <motion>401.0</motion>
-   <power>15.52</power>
-   <temperature>23.7</temperature>
-   <time>30.10.2023 11:51:22</time>
+   <motion>357.0</motion>
+   <power>15.32</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:02:18</time>
 </item>
 <item>
    <id>12</id>
-   <motion>401.0</motion>
-   <power>15.52</power>
-   <temperature>23.7</temperature>
-   <time>30.10.2023 11:51:22</time>
+   <motion>597.0</motion>
+   <power>15.32</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:02:19</time>
 </item>
 <item>
    <id>12</id>
-   <motion>401.0</motion>
-   <power>15.52</power>
-   <temperature>23.7</temperature>
-   <time>30.10.2023 11:51:22</time>
+   <motion>597.0</motion>
+   <power>15.32</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:02:20</time>
 </item>
 <item>
    <id>12</id>
-   <motion>401.0</motion>
-   <power>15.52</power>
-   <temperature>23.7</temperature>
-   <time>30.10.2023 11:51:22</time>
+   <motion>498.0</motion>
+   <power>15.31</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:02:21</time>
 </item>
 <item>
    <id>12</id>
-   <motion>401.0</motion>
-   <power>15.52</power>
-   <temperature>23.7</temperature>
-   <time>30.10.2023 11:51:22</time>
+   <motion>498.0</motion>
+   <power>15.31</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:02:22</time>
 </item>
 <item>
    <id>12</id>
-   <motion>401.0</motion>
-   <power>15.52</power>
-   <temperature>23.7</temperature>
-   <time>30.10.2023 11:51:22</time>
+   <motion>498.0</motion>
+   <power>15.26</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:02:23</time>
 </item>
 <item>
    <id>12</id>
-   <motion>401.0</motion>
-   <power>15.52</power>
-   <temperature>23.7</temperature>
-   <time>30.10.2023 11:51:22</time>
+   <motion>268.0</motion>
+   <power>15.26</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:02:24</time>
 </item>
 <item>
    <id>12</id>
-   <motion>401.0</motion>
-   <power>15.52</power>
-   <temperature>23.7</temperature>
-   <time>30.10.2023 11:51:22</time>
+   <motion>268.0</motion>
+   <power>15.26</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:02:25</time>
 </item>
 <item>
    <id>12</id>
-   <motion>401.0</motion>
-   <power>15.52</power>
-   <temperature>23.7</temperature>
-   <time>30.10.2023 11:51:22</time>
+   <motion>268.0</motion>
+   <power>15.33</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:02:26</time>
 </item>
 <item>
    <id>12</id>
-   <motion>401.0</motion>
-   <power>15.52</power>
-   <temperature>23.7</temperature>
-   <time>30.10.2023 11:51:22</time>
+   <motion>171.0</motion>
+   <power>15.33</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:02:27</time>
 </item>
 <item>
    <id>12</id>
-   <motion>401.0</motion>
-   <power>15.52</power>
-   <temperature>23.7</temperature>
-   <time>30.10.2023 11:51:22</time>
+   <motion>171.0</motion>
+   <power>15.33</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:02:28</time>
 </item>
 <item>
    <id>12</id>
-   <motion>401.0</motion>
-   <power>15.52</power>
-   <temperature>23.7</temperature>
-   <time>30.10.2023 11:51:22</time>
+   <motion>98.0</motion>
+   <power>15.31</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:02:29</time>
 </item>
 <item>
    <id>12</id>
-   <motion>401.0</motion>
-   <power>15.52</power>
-   <temperature>23.7</temperature>
-   <time>30.10.2023 11:51:22</time>
+   <motion>98.0</motion>
+   <power>15.31</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:02:30</time>
 </item>
 <item>
    <id>12</id>
-   <motion>401.0</motion>
-   <power>15.52</power>
-   <temperature>23.7</temperature>
-   <time>30.10.2023 11:51:22</time>
+   <motion>98.0</motion>
+   <power>15.31</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:02:31</time>
 </item>
 <item>
    <id>12</id>
-   <motion>401.0</motion>
-   <power>15.52</power>
-   <temperature>23.7</temperature>
-   <time>30.10.2023 11:51:22</time>
+   <motion>143.0</motion>
+   <power>15.27</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:02:32</time>
 </item>
 <item>
    <id>12</id>
-   <motion>401.0</motion>
-   <power>15.52</power>
-   <temperature>23.7</temperature>
-   <time>30.10.2023 11:51:22</time>
+   <motion>143.0</motion>
+   <power>15.27</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:02:33</time>
 </item>
 <item>
    <id>12</id>
-   <motion>401.0</motion>
-   <power>15.52</power>
-   <temperature>23.7</temperature>
-   <time>30.10.2023 11:51:22</time>
+   <motion>143.0</motion>
+   <power>15.33</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:02:34</time>
 </item>
 <item>
    <id>12</id>
-   <motion>401.0</motion>
-   <power>15.52</power>
-   <temperature>23.7</temperature>
-   <time>30.10.2023 11:51:22</time>
+   <motion>127.0</motion>
+   <power>15.33</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:02:35</time>
 </item>
 <item>
    <id>12</id>
-   <motion>401.0</motion>
-   <power>15.52</power>
-   <temperature>23.7</temperature>
-   <time>30.10.2023 11:51:22</time>
+   <motion>127.0</motion>
+   <power>15.33</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:02:36</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>127.0</motion>
+   <power>15.23</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:02:37</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>447.0</motion>
+   <power>15.23</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:02:38</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>447.0</motion>
+   <power>15.23</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:02:39</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>447.0</motion>
+   <power>15.23</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:02:40</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>247.0</motion>
+   <power>15.23</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:02:41</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>247.0</motion>
+   <power>15.23</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:02:42</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>247.0</motion>
+   <power>15.27</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:02:43</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>830.0</motion>
+   <power>15.27</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:02:44</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>830.0</motion>
+   <power>15.3</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:02:45</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>730.0</motion>
+   <power>15.3</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:02:46</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>730.0</motion>
+   <power>15.3</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:02:47</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>730.0</motion>
+   <power>15.33</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:02:48</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>602.0</motion>
+   <power>15.33</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:02:49</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>602.0</motion>
+   <power>15.33</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:02:50</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>602.0</motion>
+   <power>15.23</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:02:51</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>448.0</motion>
+   <power>15.23</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:02:52</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>448.0</motion>
+   <power>15.23</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:02:53</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>448.0</motion>
+   <power>15.28</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:02:54</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>207.0</motion>
+   <power>15.28</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:02:55</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>207.0</motion>
+   <power>15.28</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:02:56</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>207.0</motion>
+   <power>15.3</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:02:57</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>95.0</motion>
+   <power>15.3</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:02:58</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>95.0</motion>
+   <power>15.27</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:02:59</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>95.0</motion>
+   <power>15.27</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:03:00</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>405.0</motion>
+   <power>15.27</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:03:01</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>405.0</motion>
+   <power>15.27</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:03:02</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>260.0</motion>
+   <power>15.27</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:03:03</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>260.0</motion>
+   <power>15.27</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:03:04</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>260.0</motion>
+   <power>15.27</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:03:05</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>499.0</motion>
+   <power>15.27</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:03:06</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>499.0</motion>
+   <power>15.23</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:03:07</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>499.0</motion>
+   <power>15.23</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:03:08</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>262.0</motion>
+   <power>15.23</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:03:09</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>262.0</motion>
+   <power>15.25</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:03:10</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>262.0</motion>
+   <power>15.25</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:03:11</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>175.0</motion>
+   <power>15.25</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:03:13</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>175.0</motion>
+   <power>15.3</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:03:14</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>175.0</motion>
+   <power>15.3</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:03:15</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>162.0</motion>
+   <power>15.3</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:03:16</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>162.0</motion>
+   <power>15.27</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:03:17</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>162.0</motion>
+   <power>15.27</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:03:18</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>280.0</motion>
+   <power>15.27</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:03:19</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>280.0</motion>
+   <power>15.31</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:03:20</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>247.0</motion>
+   <power>15.31</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:03:21</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>247.0</motion>
+   <power>15.3</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:03:22</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>247.0</motion>
+   <power>15.3</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:03:23</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>253.0</motion>
+   <power>15.3</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:03:24</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>253.0</motion>
+   <power>15.33</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:03:25</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>253.0</motion>
+   <power>15.33</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:03:26</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>359.0</motion>
+   <power>15.33</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:03:27</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>359.0</motion>
+   <power>15.21</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:03:28</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>359.0</motion>
+   <power>15.21</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:03:29</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>276.0</motion>
+   <power>15.21</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:03:30</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>276.0</motion>
+   <power>15.26</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:03:31</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>224.0</motion>
+   <power>15.26</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:03:32</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>224.0</motion>
+   <power>15.19</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:03:33</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>224.0</motion>
+   <power>15.19</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:03:34</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>198.0</motion>
+   <power>15.19</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:03:35</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>198.0</motion>
+   <power>15.27</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:03:36</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>198.0</motion>
+   <power>15.27</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:03:37</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>118.0</motion>
+   <power>15.27</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:03:38</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>118.0</motion>
+   <power>15.14</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:03:39</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>118.0</motion>
+   <power>15.14</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:03:40</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>361.0</motion>
+   <power>15.14</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:03:41</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>361.0</motion>
+   <power>15.08</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:03:42</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>249.0</motion>
+   <power>15.08</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:03:43</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>249.0</motion>
+   <power>15.02</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:03:44</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>249.0</motion>
+   <power>15.02</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:03:45</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>147.0</motion>
+   <power>15.02</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:03:46</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>147.0</motion>
+   <power>14.97</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:03:47</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>147.0</motion>
+   <power>14.97</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:03:48</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>222.0</motion>
+   <power>14.97</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:03:49</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>222.0</motion>
+   <power>14.94</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:03:50</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>222.0</motion>
+   <power>14.94</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:03:51</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>187.0</motion>
+   <power>14.94</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:03:52</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>187.0</motion>
+   <power>14.97</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:03:53</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>187.0</motion>
+   <power>14.97</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:03:54</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>137.0</motion>
+   <power>15.14</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:03:55</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>137.0</motion>
+   <power>15.14</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:03:56</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>137.0</motion>
+   <power>15.14</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:03:57</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>92.0</motion>
+   <power>15.06</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:03:58</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>92.0</motion>
+   <power>15.06</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:03:59</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>92.0</motion>
+   <power>15.06</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:04:00</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>94.0</motion>
+   <power>15.13</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:04:01</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>94.0</motion>
+   <power>15.13</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:04:02</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>92.0</motion>
+   <power>15.13</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:04:03</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>92.0</motion>
+   <power>15.13</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:04:04</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>92.0</motion>
+   <power>15.13</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:04:05</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>255.0</motion>
+   <power>15.08</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:04:06</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>255.0</motion>
+   <power>15.08</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:04:07</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>255.0</motion>
+   <power>15.08</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:04:09</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>130.0</motion>
+   <power>15.09</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:04:10</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>130.0</motion>
+   <power>15.09</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:04:11</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>130.0</motion>
+   <power>15.09</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:04:12</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>158.0</motion>
+   <power>15.13</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:04:13</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>158.0</motion>
+   <power>15.13</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:04:14</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>158.0</motion>
+   <power>15.13</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:04:15</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>356.0</motion>
+   <power>15.1</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:04:16</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>356.0</motion>
+   <power>15.1</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:04:17</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>356.0</motion>
+   <power>15.12</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:04:18</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>204.0</motion>
+   <power>15.12</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:04:19</time>
+</item>
+<item>
+   <id>12</id>
+   <motion>204.0</motion>
+   <power>15.12</power>
+   <temperature>23.6</temperature>
+   <time>30.10.2023 12:04:20</time>
 </item>
