@@ -1,22 +1,31 @@
+from concurrent.futures import ThreadPoolExecutor
+import time
 from paho.mqtt import client as mqtt_client  # type: ignore
 from datetime import datetime
 import json
-import xml
+import dict2xml
+import pandas as pd
 
 
 # Параметры подключения к MQTT-брокеру
-HOST = "192.168.1.11"  # IP чемодана
+HOST = "192.168.1.12"  # IP чемодана
 PORT = 1883  # Стандартный порт подключения для Mosquitto
 KEEPALIVE = 60
 # Время ожидания доставки сообщения, если при отправке оно будет прeвышено,
 # брокер будет считаться недоступным
 
 # Словарь с топиками и собираемыми из них параметрами
+# SUB_TOPICS = {
+#     "/devices/wb-msw-v3_21/controls/Temperature": "temperature",
+#     "/devices/wb-msw-v3_21/controls/Current Motion": "motion",
+#     "/devices/wb-msw-v3_21/controls/Sound Level": "sound",
+#     "/devices/wb-ms_11/controls/Illuminance": "illuminance",
+# }
+
 SUB_TOPICS = {
     "/devices/wb-msw-v3_21/controls/Temperature": "temperature",
     "/devices/wb-msw-v3_21/controls/Current Motion": "motion",
-    "/devices/wb-msw-v3_21/controls/Sound Level": "sound",
-    "/devices/wb-ms_11/controls/Illuminance": "illuminance",
+    '/devices/wb-map12e_23/controls/Ch 1 P L2': 'power'
 }
 try:
     all_data = json.load(open("data.json", "r"))
@@ -42,17 +51,33 @@ def on_connect(client, userdata, flags, rc):
 
 data = {}
 
+all_data = [
+    {
+        "id": 12,
+        "motion": 0,
+        "sound": 0,
+        "temperature": 0,
+        "illuminance": 0,
+        "time": "01.01.2021 00:00:00",
+    }
+]
 
-def save_to_json(json_data):
+
+def save_to_json(data):
     with open("data.json", "w") as file:
-        file.write(json.dumps(json_data))
+        file.write(json.dumps(data))
 
 
-def save_to_xml(json_data):
-    pass
+def save_to_csv():
+    with open("data.json", encoding="utf-8") as inputfile:
+        df = pd.read_json(inputfile)
+    df.to_csv("data.csv", index=False)
 
 
-last_time = None
+def save_to_xml():
+    xml_string = dict2xml.dict2xml(all_data, wrap="item", indent="   ")
+    with open("data.xml", "w") as file:
+        file.write(xml_string)
 
 
 def on_message(client, userdata, msg):
@@ -68,17 +93,20 @@ def on_message(client, userdata, msg):
     topic = msg.topic
 
     global data
-    global last_time
     data["id"] = int(HOST.split(".")[-1])
-    current_time = datetime.now().strftime("%d.%m.%Y %H:%M:%S")
-    data["time"] = current_time
     data[SUB_TOPICS[topic]] = float(payload)
-    if last_time != current_time:
+
+
+def output_loop():
+    global data
+    while True:
+        time.sleep(5)
         print(data)
+        data["time"] = datetime.now().strftime("%d.%m.%Y %H:%M:%S")
         all_data.append(data)
         save_to_json(all_data)
-        save_to_xml(all_data)
-        data = {}
+        save_to_csv()
+        save_to_xml()
 
 
 def main():
@@ -86,8 +114,9 @@ def main():
     client.on_connect = on_connect
     client.on_message = on_message
     client.connect(HOST, PORT, KEEPALIVE)
-
-    client.loop_forever()
+    with ThreadPoolExecutor(max_workers=2) as pool:
+        pool.submit(client.loop_forever)
+        pool.submit(output_loop)
 
 
 if __name__ == "__main__":
