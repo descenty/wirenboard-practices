@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "practice8"
+version = "0.1.0"
+description = ""
+authors = ["Alexander <bychenkov.a.k@edu.mirea.ru>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[tool.poetry.group.dev.dependencies]
+bandit = "^1.7.5"
+mypy = "^1.6.1"
+flake8 = "^6.1.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
